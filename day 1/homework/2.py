@@ -1,2 +1,2 @@
 #2) print ბრძანების გამოყენებით შედეგად ტერმინალში გამოიტანე შენი სახელი და გვარი
-print("amdria chadunash1")
+print("andria chadunash1")

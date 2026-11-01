@@ -1,0 +1,12 @@
+#შექმენი ორი ცვლადი რომელშიც შეინახავ სხვადასხვა რიცხვს, ეს ორი ცვლადი შეკრიბე და შედეგი გამოიტანე ეკრან.
+
+number1=209
+number2=345
+print(number1+number2)
+number3="8"
+number4="andria"
+number5="chadunaSvili"
+print(number3+number4+number5)
+number7=211
+number8=900
+print(number7-number8)
